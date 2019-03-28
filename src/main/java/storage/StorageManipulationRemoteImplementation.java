@@ -1,7 +1,7 @@
 package storage;
 
 /**
- * Use this as specification for storage manipulation operations(move storage, etc).
+ * Implementation of {@link StorageManipulation}. This implementation use dropbox as storage.
  */
 public class StorageManipulationRemoteImplementation implements StorageManipulation {
 

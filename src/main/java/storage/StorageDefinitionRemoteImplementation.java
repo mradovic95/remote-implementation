@@ -1,7 +1,7 @@
 package storage;
 
 /**
- * Use this as specification for storage definition operations(create, delete, etc).
+ * Implementation of {@link StorageDefinition}. This implementation use dropbox as storage.
  */
 public class StorageDefinitionRemoteImplementation implements StorageDefinition {
 
